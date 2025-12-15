@@ -1,0 +1,19 @@
+#exerciselist{
+    width: 50%;
+    color: rgb(13, 0, 128);
+    border: 5px solid black;
+}
+
+#notelist{
+    width: 50%;
+    color: rgb(0, 0, 0);
+    border: 5px solid black;
+}
+
+#mainlist{
+    display:flex;
+}
+
+a.src {
+  margin-left: 12px;
+}
